@@ -1,0 +1,74 @@
+RecordCount: 172
+
+console rmx2 4
+   1
+
+#Start
+  61
+
+#1
+  45,R
+  10,R,U,X
+  30,R,U
+  28,U
+  80,R,U,J
+  10,R,U,X
+  37,U
+  13,R,U,J
+  38,R,U
+   8,R,U,J
+  42,R,U
+  10,R,U,X
+  18,R,U
+  24,U
+ 203,R,U,J
+   2,R,U
+  23,R,U,J,G
+  28,R,U,G
+  33,R,U,J,G
+   2,R,U,G
+  21,L,R,U,J,G
+  58,R,U,G
+  20,L,R,U,J,G
+  10,R,U,X,G
+  20,R,U,G
+ 102,L,R,U,G
+  30,L,R,U,J,G
+  10,L,R,U,Z,G
+  40,L,R,U,G
+  25,R,U,J,G
+   6,R,U,G
+  30,R,U,J,G
+ 131,R,U,G
+  10,R,U,D,X,G
+   7,R,U,D,G
+  60,R,U,D,J,G
+   3,R,U,D,G
+  55,R,U,D,J,G
+  12,R,U,D,G
+  15,R,U,G
+   8,R,U,D,G
+  11,R,U,G
+  18,R,U,J,G
+  10,R,U,X,G
+  84,R,U,G
+  26,R,U,J,G
+  10,R,U,X,G
+  55,R,U,D,G
+  31,R,U,G
+  10,U,X,G
+  90,R,G
+  10,R,U,X,G
+ 635,R,U,G
+  10,R,U,X,G
+  37,R,U,G
+  14,R,U,J,G
+  24,R,U,G
+  10,R,U,J,G
+  26,R,U,G
+  10,R,U,J,G
+  27,R,U,G
+  34,R,U,J,G
+ 210,R,U,X,G
+   4,R,U,J,X,G
+
